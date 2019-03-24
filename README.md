@@ -1,2 +1,2 @@
-# SpringDemo
-Spring demo application using H2database
+# SpringMVC Demo
+SpringMVC demo application using H2database
